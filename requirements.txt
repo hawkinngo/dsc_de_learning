@@ -1,4 +1,7 @@
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
-"pymongo[snappy,gssapi,srv,tls]"
+pymongo
+pandas
+psycopg2
+mysql-connector-python
