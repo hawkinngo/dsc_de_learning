@@ -3,9 +3,9 @@ from mysql.connector import Error
 
 try:
     connection = mysql.connector.connect(
-        host="fdb1030.awardspace.net",
-        database="4334522_delearning",
-        user="4334522_delearning",
+        host="db4free.net",
+        database="delearning",
+        user="delearning",
         password="spam0123456789",
     )
     if connection.is_connected():
